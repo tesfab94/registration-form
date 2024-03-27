@@ -1,22 +1,34 @@
-# Registration Form Page
+# 📖 Registartion Form
 
-This project is a simple registration form page built using HTML and CSS.
+Registration form is a very  simple frontend webpage that shows the basic to create a registartion page.
 
-## Features
+ ### 🛠 Built With
+  
+  *HTML* & 
+  *CSS*  
+##  Key Features
+  
+      - Basic registration form with fields for name, email, password, etc.
+      - Responsive design for mobile and desktop.
+ ## 💻 Getting Started
+  ### Prerequisites
+  *No prerequiste needed*
+  ### Install
+  ***Clone the repo***
+  https://github.com/tesfab94/registration-form.git
+  
+**👥 Authors 1**
 
-- Basic registration form with fields for name, email, password, etc.
-- Responsive design for mobile and desktop.
+  Github:[@tesfab94](https://twitter.com/twitterhandle)
+  
+  Twitter:[@tesfab94](https://twitter.com/twitterhandle)
+  
+  LinkedIn:[tesfab-tefera-aa33592b6](https://linkedin.com/in/linkedinhandle)
 
-## Getting Started
+  **👥 Authors 2**
 
-To get a local copy up and running follow these simple steps.
+  Github:[@selamawit42](https://twitter.com/twitterhandle)
+  
 
-### Prerequisites
-
-- None
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/tesfab94/registration-form.git
+  ## 🙏 Acknowledgements
+  We would like to thank Our advisor *Feyisa kedir* who inspired us to do these project!
