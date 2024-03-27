@@ -1,10 +1,25 @@
 body{
-    background-color: #9b9bc4;
-    margin: o;
+    background:  url("DD.webp") center / cover ;
+    
+    margin: 0;
     padding: 0;
+
 }
+.logo{width:200px;
+color:#fff;
+border-radius:2000px;
+float:left;}
+.titel{color:#fff;
+font-size:80px;
+font-family:impact,serif;
+}
+  
+a{ font-size:30px;
+color:blue;}
+   
 div{
-    background-color: #1b1b32;
+    background-color: rgba(22,34,11,0.3);
+	border-radius:100px;
     margin:50px auto;
     width: 50%;
     border-radius: 5px;
