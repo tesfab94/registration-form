@@ -8,7 +8,8 @@ body{
 .logo{width:200px;
 color:#fff;
 border-radius:2000px;
-float:left;}
+float:left;
+margin-top:0px;}}
 .titel{color:#fff;
 font-size:80px;
 font-family:impact,serif;
@@ -16,7 +17,12 @@ font-family:impact,serif;
   
 a{ font-size:30px;
 color:blue;}
-   
+a:hover{color:rgb(115, 196, 202);}
+
+a:active{color:rgb(243, 9, 9);}
+
+a:visited{color:rgb(243, 238, 238);}
+
 div{
     background-color: rgba(22,34,11,0.3);
 	border-radius:100px;
